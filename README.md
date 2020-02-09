@@ -24,6 +24,7 @@ Usage :
     
 How you can see, ngrok are working!
 
+Tested in:
 Testado em:
       Termux 
  
